@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Setup Guidelines](setup-guidelines-1/README.md)
+  * [Mfund Flutter App](setup-guidelines-1/mfund-flutter-app.md)
+  * [Mfund Backend](setup-guidelines-1/mfund-backend.md)
+* [Technology Used](technology-used.md)
+* [Architecture](architecture.md)
+* [Database Structure](database-structure.md)
+* [App Flow](app-flow.md)
+* [Backend Flow](backend-flow.md)
+* [API Documentation](api-documentation.md)
+* [Screens](screens/README.md)
+  * [Login Screen](screens/login-screen.md)
+  * [Signup Screen](screens/signup-screen.md)
+  * [KYC Screen](screens/kyc-screen.md)
+  * [Home Screen](screens/home-screen.md)
+  * [Investment Screen](screens/investment-screen.md)
+  * [Profile Screen](screens/profile-screen.md)
+  * [Withdraw Screen](screens/withdraw-screen.md)
+
